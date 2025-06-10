@@ -1,0 +1,6 @@
+ipykernel
+wfdb
+scipy
+numpy
+matplotlib
+pandas
